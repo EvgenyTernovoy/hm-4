@@ -1,0 +1,26 @@
+{
+  "name": "hw-3_express",
+  "version": "0.0.1",
+  "author": "Eugeny Ternovoy",
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "eslint": "^5.9.0",
+    "formidable": "^1.2.1",
+    "koa": "^2.6.2",
+    "koa-better-flash": "0.0.3",
+    "koa-body": "^4.0.4",
+    "koa-flash": "^1.0.0",
+    "koa-pug": "^3.0.0-2",
+    "koa-router": "^7.4.0",
+    "koa-session": "^5.10.0",
+    "koa-static": "^5.0.0",
+    "lowdb": "^1.0.0",
+    "nodemailer": "^4.7.0",
+    "pug": "^2.0.3"
+  }
+}

@@ -1,0 +1,9 @@
+extends ../_template
+
+block variables
+  - var title = 'Error page'
+
+block content
+  h1 Error
+  h2.code= status
+  p= error

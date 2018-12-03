@@ -3,6 +3,6 @@
 npm start
 
 ## Admin
-login: test@gmial.com
+login: test@gmail.com
 
 pass: 123123
